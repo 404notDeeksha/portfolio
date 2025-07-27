@@ -1,8 +1,8 @@
-# Developer Portfolio - Vite Edition
+# Portfolio - Developer Portfolio
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/developer-portfolio-vite)
-[![CI](https://github.com/yourusername/developer-portfolio-vite/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/developer-portfolio-vite/actions/workflows/ci.yml)
-[![Deploy](https://github.com/yourusername/developer-portfolio-vite/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/developer-portfolio-vite/actions/workflows/deploy.yml)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/404notDeeksha/portfolio)
+[![CI](https://github.com/404notDeeksha/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/404notDeeksha/portfolio/actions/workflows/ci.yml)
+[![Deploy](https://github.com/404notDeeksha/portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/404notDeeksha/portfolio/actions/workflows/deploy.yml)
 
 A clean, responsive developer portfolio built with **React**, **Vite**, and **modern web technologies**. Features automatic deployment to Vercel with CI/CD pipeline.
 
@@ -39,8 +39,8 @@ A clean, responsive developer portfolio built with **React**, **Vite**, and **mo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/developer-portfolio-vite.git
-cd developer-portfolio-vite
+git clone https://github.com/404notDeeksha/portfolio.git
+cd portfolio
 ```
 
 2. **Install dependencies**
