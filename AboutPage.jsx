@@ -32,7 +32,7 @@ export const AboutPage = () => {
           <div className="flex flex-col items-center gap-6 mb-8">
             <div className="flex items-center gap-4">
               <img src={images.logo} className="w-12 h-12" alt="GAiget Logo" />
-              <h1 className="font-serif text-3xl md:text-4xl text-[#b084f7] tracking-wide">
+              <h1 className="font-serif text-3xl md:text-4xl text-[#02a9f7] tracking-wide">
                 GAiget
               </h1>
             </div>
